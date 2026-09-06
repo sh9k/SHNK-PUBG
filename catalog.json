@@ -1,0 +1,100 @@
+{
+  "versions": [
+    {
+      "id": "gl",
+      "name": "PUBG MOBILE Global",
+      "shortCode": "GL",
+      "package": "com.tencent.ig",
+      "version": "V4.6.0",
+      "sizeBytes": 2684354560,
+      "url": "https://www.mediafire.com/file/ضع-معرف-الملف/pubg_global.apkm/file",
+      "icon": "Assets/versions/gl.png",
+      "badge": "Assets/badges/gl.png",
+      "state": "Ready"
+    },
+    {
+      "id": "kr",
+      "name": "PUBG MOBILE KR",
+      "shortCode": "KR",
+      "package": "com.pubg.krmobile",
+      "version": "V4.6.0",
+      "sizeBytes": 1159641169,
+      "url": "https://www.mediafire.com/file/jr47y1tppdui4la/pubg_k.apkm/file",
+      "icon": "Assets/versions/kr.png",
+      "badge": "Assets/badges/kr.png",
+      "state": "Ready"
+    },
+    {
+      "id": "tw",
+      "name": "PUBG TW",
+      "shortCode": "TW",
+      "package": "com.rekoo.pubgm",
+      "version": "V4.6.0",
+      "sizeBytes": 2684354560,
+      "url": "https://www.mediafire.com/file/ضع-معرف-الملف/pubg_tw.apkm/file",
+      "icon": "Assets/versions/tw.png",
+      "badge": "Assets/badges/tw.png",
+      "state": "Ready"
+    },
+    {
+      "id": "vng",
+      "name": "PUBG VNG",
+      "shortCode": "VNG",
+      "package": "com.vng.pubgmobile",
+      "version": "V4.6.0",
+      "sizeBytes": 2684354560,
+      "url": "https://www.mediafire.com/file/ضع-معرف-الملف/pubg_vng.apkm/file",
+      "icon": "Assets/versions/vng.png",
+      "badge": "Assets/badges/vng.png",
+      "state": "Ready"
+    },
+    {
+      "id": "bgmi",
+      "name": "PUBG BGMI",
+      "shortCode": "BGMI",
+      "package": "com.pubg.imobile",
+      "version": "V4.6.0",
+      "sizeBytes": 2684354560,
+      "url": "https://www.mediafire.com/file/ضع-معرف-الملف/pubg_bgmi.apkm/file",
+      "icon": "Assets/versions/bgmi.png",
+      "badge": "Assets/badges/bgmi.png",
+      "state": "Check"
+    }
+  ],
+  "emulators": [
+    {
+      "name": "Gameloop",
+      "publisher": "Tencent",
+      "note": "المحاكي الرسمي لببجي موبايل — الأفضل للأداء والتوافق",
+      "url": "https://www.gameloop.com/",
+      "icon": "Assets/emulators/gameloop.png",
+      "ports": [
+        5555,
+        7555
+      ]
+    },
+    {
+      "name": "LDPlayer 9",
+      "publisher": "XUANZHI",
+      "note": "خفيف على الجهاز ويدعم تعدد النوافذ",
+      "url": "https://www.ldplayer.net/",
+      "icon": "Assets/emulators/ldplayer.png",
+      "ports": [
+        5555,
+        5557,
+        5559
+      ]
+    },
+    {
+      "name": "Mumu Player",
+      "publisher": "Microvirt",
+      "note": "خيار بديل بإعدادات رسم مرنة",
+      "url": "https://www.mumuplayer.com/",
+      "icon": "Assets/emulators/mumu.png",
+      "ports": [
+        21503,
+        21513
+      ]
+    }
+  ]
+}
