@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/USER/REPO/releases/download/v1.0.3/3MO_SHNK.exe",
-  "notes": "• إصلاح فحص نسخ الملفات للمحاكي\n• دعم استئناف التحميل\n• إضافة نسخة BGMI",
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.0.2/3MO_SHNK.exe",
+  "notes": "• شريط تحميل كوني بنجوم وبرق\n• تبويبات 32 و 64 بت\n• فحص معمارية المحاكي قبل التثبيت",
   "mandatory": false,
   "minVersion": "1.0.0"
 }
