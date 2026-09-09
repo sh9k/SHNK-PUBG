@@ -49,7 +49,7 @@
       "url": "https://www.mediafire.com/file/ضع-معرف-الملف/pubg_vng.apkm/file",
       "icon": "Assets/versions/vng.png",
       "badge": "Assets/badges/vng.png",
-      "state": "Ready",
+      "state": "Updating",
       "arch": "32"
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://www.mediafire.com/file/qm184scfizbdqbi/Gl_64.apkm/file",
       "icon": "Assets/versions/gl.png",
       "badge": "Assets/badges/gl.png",
-      "state": "Check",
+      "state": "Ready",
       "arch": "64"
     },
     {
@@ -88,7 +88,7 @@
       "url": "https://www.mediafire.com/file/8w52kqc8oz7qo13/Kr+64.apkm/file",
       "icon": "Assets/versions/kr.png",
       "badge": "Assets/badges/kr.png",
-      "state": "Check",
+      "state": "Ready",
       "arch": "64"
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://www.mediafire.com/file/elkev9t56ujj02c/Tw+64.apkm/file",
       "icon": "Assets/versions/tw.png",
       "badge": "Assets/badges/tw.png",
-      "state": "Check",
+      "state": "Ready",
       "arch": "64"
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://www.mediafire.com/file/ضع-معرف-الملف/vng_64.apkm/file",
       "icon": "Assets/versions/vng.png",
       "badge": "Assets/badges/vng.png",
-      "state": "Check",
+      "state": "Updating",
       "arch": "64"
     },
     {
