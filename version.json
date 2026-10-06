@@ -1,7 +1,7 @@
 {
   "version": "1.0.4",
   "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.0.4/3MO_SHNK.exe",
-  "sha256": "3f2affa76bea4642bf1c7809ab3d5dc66399e1ab7dc5172c8ef7402b4156f8a1",
+  "sha256": "a9268faa26eb99ebb3338abca3a505a3f3759f44994ec734122483b46c733c14",
   "notes": "• حل مشكلة تثبيت OBB لنسخ 64 بت بالكامل\n• شريط تحميل كوني بنجوم وبرق\n• تبويبات 32 و 64 بت\n• فحص معمارية المحاكي قبل التثبيت\n• تحديث ذاتي بدون متصفح وتخطي الكاش",
   "mandatory": false,
   "minVersion": "1.0.0"
