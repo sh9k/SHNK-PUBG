@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.0.4/3MO_SHNK.exe",
-  "sha256": "a9268faa26eb99ebb3338abca3a505a3f3759f44994ec734122483b46c733c14",
-  "notes": "• حل مشكلة تثبيت OBB لنسخ 64 بت بالكامل\n• شريط تحميل كوني بنجوم وبرق\n• تبويبات 32 و 64 بت\n• فحص معمارية المحاكي قبل التثبيت\n• تحديث ذاتي بدون متصفح وتخطي الكاش",
+  "version": "1.0.5",
+  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.0.5/3MO_SHNK.exe",
+  "sha256": "b07b9e8082137da048cbdc9fd9c1a5718eabfd1054adc2cb749d6840f2b45b88",
+  "notes": "• حل مشكلة ميديافاير وتجاوز حماية Cloudflare تلقائياً عبر WebView2\n• إضافة ميزة تثبيت اللعبة من ملف محلي على جهازك (APKM / XAPK / ZIP / APK)\n• دعم السحب والإفلات للملفات وقائمة خيارات سريعة بالزر الأيمن\n• تحسين استقرار وسرعة الاتصال بالمحاكي",
   "mandatory": false,
   "minVersion": "1.0.0"
 }
