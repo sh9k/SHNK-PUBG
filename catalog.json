@@ -62,7 +62,7 @@
       "url": "https://www.mediafire.com/file/ضع-معرف-الملف/pubg_bgmi.apkm/file",
       "icon": "Assets/versions/bgmi.png",
       "badge": "Assets/badges/bgmi.png",
-      "state": "Check",
+      "state": "Ready",
       "arch": "32"
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://www.mediafire.com/file/ضع-معرف-الملف/vng_64.apkm/file",
       "icon": "Assets/versions/vng.png",
       "badge": "Assets/badges/vng.png",
-      "state": "Updating",
+      "state": "Ready",
       "arch": "64"
     },
     {
@@ -127,7 +127,7 @@
       "url": "https://www.mediafire.com/file/ضع-معرف-الملف/bgmi_64.apkm/file",
       "icon": "Assets/versions/bgmi.png",
       "badge": "Assets/badges/bgmi.png",
-      "state": "Check",
+      "state": "Ready",
       "arch": "64"
     }
   ],
