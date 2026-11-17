@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.0.8/3MO_SHNK.exe",
-  "sha256": "cb31c9b89c4165c64d794b642ad384524b03ba3f9d49e779dd45fb7e501930d7",
-  "notes": "• ترقية وتحديث أدوات ADB إلى 1.0.41 (v34.0.4) المتوافقة مع LDPlayer 14\n• حل مشكلة إظهار رسالة النجاح الكاذبة وإضافة فحص تأكيد إجباري من قلب المحاكي\n• دعم كامل لتثبيت الحزم المقسمة Split APKs على كافة المحاكيات\n• دعم وضع التثبيت المستقر --no-streaming لتفادي أخطاء الذاكرة وبث الحزم",
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.0.9/3MO_SHNK.exe",
+  "sha256": "584eb04d6181c304c239aead122934c478b99f3e0a76c95a9f412dd8626c2563",
+  "notes": "• الكشف التلقائي الذكي عن مسار ADB الخاص بنفس المحاكي الشغّال (LDPlayer 9 / 14 / Gameloop) لمنع تضارب السيرفر نهائياً\n• حل مشكلة قفل واستخراج ملفات ADB في مجلد AppData عند تشغيل البرنامج\n• حل مشكلة Failed to write الناتجة عن سقوط اتصال ADB أثناء بث الحزم المقسمة\n• استقرار تام وسرعة فائقة في تثبيت حزم Split APKs و 64-بت",
   "mandatory": false,
   "minVersion": "1.0.0"
 }
