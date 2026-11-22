@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.1.0/3MO_SHNK.exe",
-  "sha256": "792d8ae04a184091b39a51cb9622f610e3ddbfc285af5aaf359347a65f3615eb",
-  "notes": "• دعم كامل لمحاكي Gameloop وتشغيل اللعبة المباشر عبر Activity المعتمد (SplashActivity)\n• إضافة خيار 'تشغيل اللعبة على المحاكي' عند النقر كليك يمين على كرت أي نسخة\n• تنبيه ذكي لمستخدمي محاكي كيم لوب لإظهار أيقونة اللعبة عبر مفتاح F9\n• استقرار وسرعة فائقة في الاتصال والنقل",
-  "mandatory": false,
-  "minVersion": "1.0.0"
+    "version":  "1.1.1",
+    "downloadUrl":  "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.1.1/3MO_SHNK.exe",
+    "sha256":  "48ce51735311d554c600dad1136a7e6e2227c02055a82fff9a64a8c1a73668a1",
+    "notes":  "• إصلاح كراش خدمة الميديا (android.process.media OutOfMemoryError) على محاكي Gameloop 32-bit عند نقل ملفات OBB للنسخة الكورية\n• تحديث شاشة المحاكي الرئيسية تلقائياً بعد التثبيت لإظهار أيقونة اللعبة فوراً وتشغيلها تلقائياً\n• استبعاد نسخ ADB القديمة (1.0.31) الخاصة بمحاكي كيم لوب لمنع فشل التثبيت",
+    "mandatory":  false,
+    "minVersion":  "1.0.0"
 }
