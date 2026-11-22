@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.0.9/3MO_SHNK.exe",
-  "sha256": "584eb04d6181c304c239aead122934c478b99f3e0a76c95a9f412dd8626c2563",
-  "notes": "• الكشف التلقائي الذكي عن مسار ADB الخاص بنفس المحاكي الشغّال (LDPlayer 9 / 14 / Gameloop) لمنع تضارب السيرفر نهائياً\n• حل مشكلة قفل واستخراج ملفات ADB في مجلد AppData عند تشغيل البرنامج\n• حل مشكلة Failed to write الناتجة عن سقوط اتصال ADB أثناء بث الحزم المقسمة\n• استقرار تام وسرعة فائقة في تثبيت حزم Split APKs و 64-بت",
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/sh9k/SHNK-PUBG/releases/download/v1.1.0/3MO_SHNK.exe",
+  "sha256": "792d8ae04a184091b39a51cb9622f610e3ddbfc285af5aaf359347a65f3615eb",
+  "notes": "• دعم كامل لمحاكي Gameloop وتشغيل اللعبة المباشر عبر Activity المعتمد (SplashActivity)\n• إضافة خيار 'تشغيل اللعبة على المحاكي' عند النقر كليك يمين على كرت أي نسخة\n• تنبيه ذكي لمستخدمي محاكي كيم لوب لإظهار أيقونة اللعبة عبر مفتاح F9\n• استقرار وسرعة فائقة في الاتصال والنقل",
   "mandatory": false,
   "minVersion": "1.0.0"
 }
